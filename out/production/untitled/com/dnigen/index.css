@@ -1,0 +1,19 @@
+body{
+background-color: cornflowerblue;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-size: 20px;
+    font-family: "Arial Black";
+}
+
+.content{
+    margin: auto;
+}
